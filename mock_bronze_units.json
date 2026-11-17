@@ -1,0 +1,84 @@
+{
+  "units": [
+    {
+      "id": 1,
+      "unit_code": "SKHCN-001",
+      "unit_name": "Sở Khoa học và Công nghệ",
+      "parent_id": null,
+      "email": "vanthu@skhcn.gov.vn",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "unit_code": "SKHCN-002",
+      "unit_name": "Phòng Quản lý công nghệ",
+      "parent_id": 1,
+      "email": "qlcn@skhcn.gov.vn",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "unit_code": "SKHCN-003",
+      "unit_name": "Phòng Kế hoạch - Tài chính",
+      "parent_id": 1,
+      "email": "khtc@skhcn.gov.vn",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "unit_code": "SKHCN-004",
+      "unit_name": "Trung tâm Ứng dụng tiến bộ KH&CN",
+      "parent_id": 1,
+      "email": "ungdung@skhcn.gov.vn",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "unit_code": "SKHCN-005",
+      "unit_name": "Chi cục Tiêu chuẩn Đo lường Chất lượng",
+      "parent_id": 1,
+      "email": "tcđlcl@skhcn.gov.vn",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "unit_code": "SKHCN-006",
+      "unit_name": "Đơn vị thử nghiệm trùng ID",
+      "parent_id": 1,
+      "email": "duplicate@skhcn.gov.vn",
+      "status": 1
+    },
+    {
+      "id": null,
+      "unit_code": "SKHCN-007",
+      "unit_name": "Đơn vị thiếu ID",
+      "parent_id": 1,
+      "email": "missingid@skhcn.gov.vn",
+      "status": 1
+    },
+    {
+      "id": 8,
+      "unit_code": "",
+      "unit_name": "Đơn vị thiếu mã",
+      "parent_id": 1,
+      "email": "missingcode@skhcn.gov.vn",
+      "status": 1
+    },
+    {
+      "id": 9,
+      "unit_code": "SKHCN-009",
+      "unit_name": null,
+      "parent_id": 1,
+      "email": "missingname@skhcn.gov.vn",
+      "status": 1
+    },
+    {
+      "id": 10,
+      "unit_code": "SKHCN-010",
+      "unit_name": "Đơn vị ngừng hoạt động",
+      "parent_id": 1,
+      "email": "inactive@skhcn.gov.vn",
+      "status": 0
+    }
+  ]
+}
