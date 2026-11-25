@@ -43,7 +43,7 @@
       "status": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "unit_code": "SKHCN-006",
       "unit_name": "Đơn vị thử nghiệm trùng ID",
       "parent_id": 1,
@@ -51,7 +51,7 @@
       "status": 1
     },
     {
-      "id": null,
+      "id": 7,
       "unit_code": "SKHCN-007",
       "unit_name": "Đơn vị thiếu ID",
       "parent_id": 1,
